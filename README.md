@@ -8,4 +8,4 @@ This version uses the APM (asynchronous programming model)
 First, you have to set up the server that will handle the clients messages. 
 You can do that by entering "s" in the message prompt when you start the app.
 
-Then you can run another instance of the program as a client by entering "c" in the message prompt. Now you pick a cool username and start chatting!
+When the server is up, you must run another instance of the app as a client, by typing "c" in the prompt. Now you can pick a cool username and start chatting!
